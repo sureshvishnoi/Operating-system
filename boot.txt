@@ -1,0 +1,12 @@
+1 BIOS
+2 MBR
+3 GRUB
+4 KERNEL
+5 INIT 
+6 Run Levels
+
+1 BIOS 
+	when we power on BIOS perform a POST (Power On Self Test ) for all of the differnce Hardware 
+        components in the system to make sure that everything is working properly.
+	
+	it also checks whether the computer is being started from an off postion (COld boot) or from a restart (warm boot)
